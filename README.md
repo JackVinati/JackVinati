@@ -1,18 +1,15 @@
 <div align="center">
 
-
 <a href="https://github.com/JackVinati">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=JackVinati&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%40%20PoliMi%20%E2%80%A2%20ML%20%26%20Audio%20%E2%80%A2%20Brescia&descAlignY=58&descSize=18" alt="header"/>
 </a>
 
-<!-- Typing subtitle -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&lines=Most+of+my+work+lives+in+private+repos+%F0%9F%94%92;So+this+README+does+the+talking;Welcome+%E2%80%94+make+yourself+at+home." alt="typing animation"/>
 </a>
 
 <br/>
 
-<!-- Badges row -->
 <img src="https://komarev.com/ghpvc/?username=JackVinati&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/JackVinati?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=0D1117" alt="followers"/>
 <img src="https://img.shields.io/badge/Focus-Private%20Repos-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="focus"/>
@@ -26,7 +23,7 @@
 ```text
   ┌─ about ──────────── a short intro
   ├─ stack ──────────── what I build with
-  ├─ stats ──────────── live GitHub numbers (private repos counted)
+  ├─ stats ──────────── live GitHub numbers
   ├─ graph ──────────── contribution activity
   ├─ trophies ──────── achievements
   └─ contact ───────── where to find me
@@ -42,7 +39,8 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 - 🎛️ **[WaveWizard](https://github.com/JackVinati/WaveWizard)** — a Gradio app that sniffs out the true sample rate & bit depth of audio files
 - ⛓️ **[Train Tickets DApp](https://github.com/Crocus98/Blockchain-Project-Train-Tickets)** — a Solidity + Python DApp I built with a friend for the DLT course @ Polimi: smart contracts handle the full ticket lifecycle and auto-refund passengers when trains run late
 - 🤗 Also lurking over on **[Hugging Face](https://huggingface.co/jackvinati)**
-
+- 📍 Based in **Brescia, Italy** 🇮🇹
+- ☕ Commit-to-coffee ratio: dangerously close to 1:1
 
 ---
 
@@ -50,7 +48,6 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 <div align="center">
 
-<!-- Matched to DS/ML/audio. Full icon list: https://skillicons.dev -->
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,jupyter,fastapi,docker,postgres,linux,git,vscode,github&perline=6" alt="tech stack"/>
 <br/>
 <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&labelColor=0D1117" alt="huggingface"/>
@@ -64,14 +61,6 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 ## 📊 Stats
 
 <div align="center">
-
-<!-- 
-  👇 THE IMPORTANT PART FOR YOU 👇
-  count_private=true ........ counts commits in private repos
-  include_all_commits=true .. counts ALL commits (not just last year's)
-  For this to actually work, you must also enable:
-  GitHub → Settings → Profile → "Include private contributions on my profile"
--->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=JackVinati&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117&rank_icon=github" alt="github stats"/>
@@ -87,8 +76,6 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 </a>
 
 </div>
-
-> **Note on private repos:** the top-languages card above only reads public repos by default. To make it reflect your real stack (90% private), see **Make Private Repos Count** at the bottom.
 
 ---
 
@@ -113,8 +100,6 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 </picture>
 
 </div>
-
-> Needs a tiny GitHub Action to generate — instructions at the bottom.
 
 ---
 
@@ -143,51 +128,3 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 </div>
-
----
-
-<details>
-<summary><b>🔒 Make Private Repos Count</b></summary>
-
-**1.** GitHub → **Settings** → **Profile** → check **"Include private contributions on my profile"**.
-
-**2.** Already done in the markup: stats card uses `count_private=true&include_all_commits=true`.
-
-**3.** Per top-languages sui repo privati, serve self-hostare `github-readme-stats` su Vercel con un PAT: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-
-</details>
-
-<details>
-<summary><b>🐍 Snake GitHub Action</b></summary>
-
-Crea `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{cron: "0 */24 * * *"}]
-  workflow_dispatch:
-  push: {branches: ["main"]}
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions: {contents: write}
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: JackVinati
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Fai partire una volta manualmente dalla tab **Actions**.
-
-</details>
