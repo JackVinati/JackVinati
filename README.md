@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&lines=Most+of+my+work+lives+in+private+repos+%F0%9F%94%92;So+this+README+does+the+talking;Welcome+%E2%80%94+make+yourself+at+home." alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&lines=Building%20with%20data%2C%20one%20model%20at%20a%20time;Curious%20about%20everything%2C%20focused%20on%20what%20matters;Open%20to%20collaboration%20and%20new%20ideas" alt="typing animation"/>
 </a>
 
 <br/>
