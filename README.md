@@ -1,8 +1,10 @@
 <div align="center">
 
-<a href="https://github.com/JackVinati">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=JackVinati&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%40%20PoliMi%20%E2%80%A2%20ML%20%26%20Audio%20%E2%80%A2%20Brescia&descAlignY=58&descSize=18" alt="header"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=56&duration=2500&pause=9999999&color=8B5CF6&center=true&vCenter=true&width=700&height=90&lines=JackVinati" alt="JackVinati"/>
+
+### Data Science @ PoliMi · ML & Audio · Brescia 🇮🇹
+
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&lines=Most+of+my+work+lives+in+private+repos+%F0%9F%94%92;So+this+README+does+the+talking;Welcome+%E2%80%94+make+yourself+at+home." alt="typing animation"/>
@@ -108,7 +110,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=JackVinati&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=JackVinati&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="trophies"/>
 </a>
 
 </div>
@@ -123,8 +125,4 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 <a href="https://huggingface.co/jackvinati"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&labelColor=0D1117"/></a>
 <a href="https://github.com/JackVinati/WaveWizard"><img src="https://img.shields.io/badge/WaveWizard-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/></a>
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 </div>
