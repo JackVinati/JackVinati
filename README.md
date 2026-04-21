@@ -20,22 +20,9 @@
 
 ---
 
-## 🧭 Quick Map
-
-```text
-  ┌─ about ──────────── a short intro
-  ├─ pinned ─────────── featured projects
-  ├─ stack ──────────── what I build with
-  ├─ languages ──────── breakdown (private repos included)
-  ├─ stats ──────────── live GitHub numbers
-  ├─ graph ──────────── 2D + 3D contribution activity
-  ├─ trophies ──────── achievements
-  └─ contact ───────── where to find me
-```
-
 ---
 
-## 👋 About
+##  About
 
 Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science** @ Politecnico di Milano. Most of what I build lives in private repos, so my public graph is a lie — this page is the honest version.
 
@@ -46,7 +33,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-## 📌 Pinned Projects
+##  Pinned Projects
 
 <div align="center">
 
@@ -61,7 +48,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
@@ -75,7 +62,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-## 📊 Stats
+##  Stats
 
 <div align="center">
 
@@ -90,7 +77,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-## 🔬 Language Breakdown
+## Language Breakdown
 *Private repos counted — every language that actually gets my commits, not just the public ones.*
 
 <div align="center">
@@ -106,7 +93,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -116,7 +103,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-## 🔮 3D Contribution Map
+## 3D Contribution Map
 
 <div align="center">
 
@@ -126,7 +113,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-## 🐍 Watch the snake eat my contributions
+## Watch the snake eat my contributions
 
 <div align="center">
 
@@ -140,7 +127,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 
@@ -152,7 +139,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-## 📫 Connect
+## Connect
 
 <div align="center">
 
