@@ -18,21 +18,17 @@
 
 </div>
 
----
+## About
 
-## 👋 About
+Most of what I build lives in private repos, so my public graph is a lie — this page is the honest version.
 
-Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science** @ Politecnico di Milano. Most of what I build lives in private repos, so my public graph is a lie — this page is the honest version.
+- Currently into: **ML & audio signal processing**
+- **[WaveWizard](https://github.com/JackVinati/WaveWizard)** — a Gradio app that sniffs out the true sample rate & bit depth of audio files
+- **[Train Tickets DApp](https://github.com/Crocus98/Blockchain-Project-Train-Tickets)** — a Solidity + Python DApp I built with a friend for the DLT course @ Polimi: smart contracts handle the full ticket lifecycle and auto-refund passengers when trains run late
+- **[Pineapple Pager Dev](https://github.com/JackVinati/pineapple-pager-dev)** — my dev playground for the Hak5 WiFi Pineapple Pager: experiments, tooling, and payloads for the handheld pentesting device
+- Also lurking over on **[Hugging Face](https://huggingface.co/jackvinati)**
 
-- 🔭 Currently into: **ML & audio signal processing**
-- 🎛️ **[WaveWizard](https://github.com/JackVinati/WaveWizard)** — a Gradio app that sniffs out the true sample rate & bit depth of audio files
-- ⛓️ **[Train Tickets DApp](https://github.com/Crocus98/Blockchain-Project-Train-Tickets)** — a Solidity + Python DApp I built with a friend for the DLT course @ Polimi: smart contracts handle the full ticket lifecycle and auto-refund passengers when trains run late
-- 🍍 **[Pineapple Pager Dev](https://github.com/JackVinati/pineapple-pager-dev)** — my dev playground for the Hak5 WiFi Pineapple Pager: experiments, tooling, and payloads for the handheld pentesting device
-- 🤗 Also lurking over on **[Hugging Face](https://huggingface.co/jackvinati)**
-
----
-
-## 📌 Pinned Projects
+## Pinned Projects
 
 <div align="center">
 
@@ -48,9 +44,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 </div>
 
----
-
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
@@ -62,9 +56,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 </div>
 
----
-
-## 📊 Stats
+## Stats
 
 <div align="center">
 
@@ -77,9 +69,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 </div>
 
----
-
-## 🔬 Language Breakdown
+## Language Breakdown
 *Private repos counted — every language that actually gets my commits, not just the public ones.*
 
 <div align="center">
@@ -93,9 +83,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 </div>
 
----
-
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -103,9 +91,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 </div>
 
----
-
-## 🔮 3D Contribution Map
+## 3D Contribution Map
 
 <div align="center">
 
@@ -113,9 +99,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 </div>
 
----
-
-## 👾 Watch Pac-Man eat my contributions
+## Watch Pac-Man eat my contributions
 
 <div align="center">
 
@@ -127,9 +111,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 </div>
 
----
-
-## 💻 Terminal Session
+## Terminal Session
 
 <div align="center">
 
@@ -137,9 +119,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 </div>
 
----
-
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 
@@ -149,9 +129,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 </div>
 
----
-
-## 📫 Connect
+## Connect
 
 <div align="center">
 
