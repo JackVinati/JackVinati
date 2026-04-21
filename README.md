@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=56&duration=2500&pause=9999999&color=8B5CF6&center=true&vCenter=true&width=700&height=90&lines=JackVinati" alt="JackVinati"/>
 
-### MSc in Data Science @ PoliMi
+### MSc in Data Science @ PoliMi 
 
 <br/>
 
@@ -24,9 +24,11 @@
 
 ```text
   ┌─ about ──────────── a short intro
+  ├─ pinned ─────────── featured projects
   ├─ stack ──────────── what I build with
+  ├─ languages ──────── breakdown (private repos included)
   ├─ stats ──────────── live GitHub numbers
-  ├─ graph ──────────── contribution activity
+  ├─ graph ──────────── 2D + 3D contribution activity
   ├─ trophies ──────── achievements
   └─ contact ───────── where to find me
 ```
@@ -41,6 +43,21 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 - 🎛️ **[WaveWizard](https://github.com/JackVinati/WaveWizard)** — a Gradio app that sniffs out the true sample rate & bit depth of audio files
 - ⛓️ **[Train Tickets DApp](https://github.com/Crocus98/Blockchain-Project-Train-Tickets)** — a Solidity + Python DApp I built with a friend for the DLT course @ Polimi: smart contracts handle the full ticket lifecycle and auto-refund passengers when trains run late
 - 🤗 Also lurking over on **[Hugging Face](https://huggingface.co/jackvinati)**
+
+---
+
+## 📌 Pinned Projects
+
+<div align="center">
+
+<a href="https://github.com/JackVinati/WaveWizard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JackVinati&repo=WaveWizard&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" alt="WaveWizard"/>
+</a>
+<a href="https://github.com/Crocus98/Blockchain-Project-Train-Tickets">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crocus98&repo=Blockchain-Project-Train-Tickets&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" alt="Train Tickets DApp"/>
+</a>
+
+</div>
 
 ---
 
@@ -69,11 +86,21 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JackVinati&hide_border=true&background=0D1117&stroke=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9&sideNums=C9D1D9" alt="streak stats"/>
 </a>
 
+</div>
+
+---
+
+## 🔬 Language Breakdown
+*Private repos counted — every language that actually gets my commits, not just the public ones.*
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JackVinati/JackVinati/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=2" alt="repos per language"/>
+<img src="https://raw.githubusercontent.com/JackVinati/JackVinati/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg?v=2" alt="most commit language (private included)"/>
+
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackVinati&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117&size_weight=0.5&count_weight=0.5" alt="top languages"/>
-</a>
+<img src="https://raw.githubusercontent.com/JackVinati/JackVinati/main/profile-summary-card-output/tokyonight/4-productive-time.svg?v=2" alt="productive time"/>
 
 </div>
 
@@ -84,6 +111,16 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JackVinati&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=C9D1D9&area=true&hide_border=true&area_color=8B5CF6" alt="activity graph" width="98%"/>
+
+</div>
+
+---
+
+## 🔮 3D Contribution Map
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JackVinati/JackVinati/main/profile-3d-contrib/profile-night-rainbow.svg?v=2" alt="3D contribution graph" width="98%"/>
 
 </div>
 
