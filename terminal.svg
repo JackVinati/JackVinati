@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" width="720" height="340" role="img" aria-label="Terminal session: jack --whoami">
+  <defs>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"  stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <filter id="soft" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="0.3"/>
+    </filter>
+    <style>
+      .win   { fill: #0D1117; stroke: #30363D; stroke-width: 1; }
+      .bar   { fill: #161B22; }
+      .dotR  { fill: #FF5F57; }
+      .dotY  { fill: #FEBC2E; }
+      .dotG  { fill: #28C840; }
+      .title { fill: #7D8590; font: 600 11px 'JetBrains Mono','Fira Code',monospace; }
+      .prompt{ fill: #8B5CF6; font: 600 14px 'JetBrains Mono','Fira Code',monospace; }
+      .cmd   { fill: #C9D1D9; font: 400 14px 'JetBrains Mono','Fira Code',monospace; }
+      .out   { fill: #C9D1D9; font: 400 13px 'JetBrains Mono','Fira Code',monospace; }
+      .key   { fill: #06B6D4; font: 600 13px 'JetBrains Mono','Fira Code',monospace; }
+      .val   { fill: #A5D6FF; font: 400 13px 'JetBrains Mono','Fira Code',monospace; }
+      .dim   { fill: #7D8590; font: 400 13px 'JetBrains Mono','Fira Code',monospace; }
+      .ok    { fill: #28C840; font: 600 13px 'JetBrains Mono','Fira Code',monospace; }
+
+      /* Typewriter: mask reveal left-to-right per line */
+      .line-hidden { opacity: 0; }
+
+      @keyframes reveal {
+        from { clip-path: inset(0 100% 0 0); opacity: 1; }
+        to   { clip-path: inset(0 0    0 0); opacity: 1; }
+      }
+      @keyframes appear {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+      }
+      @keyframes blink {
+        0%, 49%   { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+
+      .l1 { animation: reveal 1.1s steps(28) 0.4s forwards; clip-path: inset(0 100% 0 0); }
+      .l2 { animation: appear 0.3s linear 1.7s forwards; opacity: 0; }
+      .l3 { animation: appear 0.3s linear 2.0s forwards; opacity: 0; }
+      .l4 { animation: appear 0.3s linear 2.3s forwards; opacity: 0; }
+      .l5 { animation: appear 0.3s linear 2.6s forwards; opacity: 0; }
+      .l6 { animation: appear 0.3s linear 2.9s forwards; opacity: 0; }
+      .l7 { animation: appear 0.3s linear 3.2s forwards; opacity: 0; }
+      .l8 { animation: appear 0.3s linear 3.5s forwards; opacity: 0; }
+      .l9 { animation: appear 0.3s linear 3.9s forwards; opacity: 0; }
+
+      .cur { animation: blink 1s steps(2) infinite; animation-delay: 4.2s; opacity: 0; }
+      .cur-start { animation: blink 1s steps(2) 0s 2; }
+    </style>
+  </defs>
+
+  <!-- Window -->
+  <rect class="win" x="1" y="1" width="718" height="338" rx="10" ry="10"/>
+  <!-- Title bar -->
+  <rect class="bar" x="1" y="1" width="718" height="28" rx="10" ry="10"/>
+  <rect class="bar" x="1" y="18" width="718" height="11"/>
+  <!-- Traffic lights -->
+  <circle class="dotR" cx="18" cy="15" r="5.5"/>
+  <circle class="dotY" cx="36" cy="15" r="5.5"/>
+  <circle class="dotG" cx="54" cy="15" r="5.5"/>
+  <text class="title" x="360" y="19" text-anchor="middle">jack@polimi ─ zsh</text>
+
+  <!-- Prompt line 1 -->
+  <g class="l1">
+    <text class="prompt" x="20" y="64">➜</text>
+    <text class="dim"    x="42" y="64">~/profile</text>
+    <text class="cmd"    x="130" y="64">./jack --whoami</text>
+  </g>
+
+  <!-- Output -->
+  <g class="l2"><text x="20"  y="92"  class="key">name</text><text x="130" y="92"  class="dim">=</text><text x="145" y="92"  class="val">"Jack Vinati"</text></g>
+  <g class="l3"><text x="20"  y="112" class="key">role</text><text x="130" y="112" class="dim">=</text><text x="145" y="112" class="val">"MSc Computer Engineering &amp; Data Science"</text></g>
+  <g class="l4"><text x="20"  y="132" class="key">location</text><text x="130" y="132" class="dim">=</text><text x="145" y="132" class="val">"Brescia, IT 🇮🇹"</text></g>
+  <g class="l5"><text x="20"  y="152" class="key">focus</text><text x="130" y="152" class="dim">=</text><text x="145" y="152" class="val">[ "ML", "Audio DSP", "Signal Processing" ]</text></g>
+  <g class="l6"><text x="20"  y="172" class="key">stack</text><text x="130" y="172" class="dim">=</text><text x="145" y="172" class="val">[ "Python", "PyTorch", "Gradio", "Librosa" ]</text></g>
+  <g class="l7"><text x="20"  y="192" class="key">projects</text><text x="130" y="192" class="dim">=</text><text x="145" y="192" class="val">[ "WaveWizard", "Train-Tickets-DApp", "..." ]</text></g>
+  <g class="l8"><text x="20"  y="212" class="key">private_repos</text><text x="130" y="212" class="dim">=</text><text x="145" y="212" class="val">"~90% of everything"</text></g>
+  <g class="l9"><text x="20"  y="232" class="key">status</text><text x="130" y="232" class="dim">=</text><text x="145" y="232" class="ok">"shipping ✓"</text></g>
+
+  <!-- Final prompt + blinking cursor -->
+  <g>
+    <text class="prompt" x="20"  y="268">➜</text>
+    <text class="dim"    x="42"  y="268">~/profile</text>
+    <rect class="cur" x="130" y="256" width="9" height="16" fill="#8B5CF6"/>
+  </g>
+
+  <!-- Hint -->
+  <text x="360" y="310" text-anchor="middle" class="dim" style="font-size:11px">
+    <tspan fill="url(#glow)" font-weight="600">$ pwd</tspan>
+    <tspan>  →  you're already here. welcome.</tspan>
+  </text>
+</svg>
