@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=56&duration=2500&pause=9999999&color=8B5CF6&center=true&vCenter=true&width=700&height=90&lines=JackVinati" alt="JackVinati"/>
 
-### MSc in Data Science @ PoliMi 
+### Data Science @ PoliMi · ML & Audio · Brescia 🇮🇹
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 ---
 
-##  About
+## 👋 About
 
 Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science** @ Politecnico di Milano. Most of what I build lives in private repos, so my public graph is a lie — this page is the honest version.
 
@@ -33,7 +33,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-##  Pinned Projects
+## 📌 Pinned Projects
 
 <div align="center">
 
@@ -48,7 +48,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-## Stack
+## 🛠️ Stack
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-##  Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-## Language Breakdown
+## 🔬 Language Breakdown
 *Private repos counted — every language that actually gets my commits, not just the public ones.*
 
 <div align="center">
@@ -89,21 +89,26 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 <img src="https://raw.githubusercontent.com/JackVinati/JackVinati/main/profile-summary-card-output/tokyonight/4-productive-time.svg?v=2" alt="productive time"/>
 
+<br/>
+
+### 🎯 Skills Radar
+<img src="https://raw.githubusercontent.com/JackVinati/JackVinati/main/metrics.plugin.topics.svg?v=1" alt="skills radar" width="60%"/>
+
 </div>
 
 ---
 
-## Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JackVinati&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=C9D1D9&area=true&hide_border=true&area_color=8B5CF6" alt="activity graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JackVinati&theme=tokyo-night&bg_color=0D1117&hide_border=true&custom_title=Contribution%20Activity%20Graph%20(last%2031%20days)&line=8B5CF6&point=C9D1D9&area=true&area_color=8B5CF6" alt="activity graph" width="98%"/>
 
 </div>
 
 ---
 
-## 3D Contribution Map
+## 🔮 3D Contribution Map
 
 <div align="center">
 
@@ -113,21 +118,46 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-## Watch the snake eat my contributions
+## 👾 Watch Pac-Man eat my contributions
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JackVinati/JackVinati/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JackVinati/JackVinati/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/JackVinati/JackVinati/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JackVinati/JackVinati/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JackVinati/JackVinati/output/pacman-contribution-graph.svg"/>
+  <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/JackVinati/JackVinati/output/pacman-contribution-graph.svg"/>
 </picture>
 
 </div>
 
 ---
 
-## Trophies
+## 📊 Metrics Dashboard
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JackVinati/JackVinati/main/metrics.plugin.isocalendar.svg?v=1" alt="isometric contribution calendar" width="49%"/>
+<img src="https://raw.githubusercontent.com/JackVinati/JackVinati/main/metrics.plugin.habits.svg?v=1" alt="coding habits" width="49%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/JackVinati/JackVinati/main/metrics.plugin.achievements.svg?v=1" alt="achievements" width="98%"/>
+
+</div>
+
+---
+
+## 💻 Terminal Session
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JackVinati/JackVinati/main/terminal.svg?v=1" alt="jack --whoami"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
 
 <div align="center">
 
@@ -139,7 +169,7 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-## Connect
+## 📫 Connect
 
 <div align="center">
 
