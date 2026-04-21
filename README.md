@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=56&duration=2500&pause=9999999&color=8B5CF6&center=true&vCenter=true&width=700&height=90&lines=JackVinati" alt="JackVinati"/>
 
-### Data Science @ PoliMi · ML & Audio · Brescia 🇮🇹
+### MSc in Computer & Data Science @ PoliMi 
 
 <br/>
 
@@ -17,8 +17,6 @@
 <img src="https://img.shields.io/badge/Focus-Private%20Repos-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="focus"/>
 
 </div>
-
----
 
 ---
 
@@ -88,11 +86,6 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 <br/>
 
 <img src="https://raw.githubusercontent.com/JackVinati/JackVinati/main/profile-summary-card-output/tokyonight/4-productive-time.svg?v=2" alt="productive time"/>
-
-<br/>
-
-### 🎯 Skills Radar
-<img src="https://raw.githubusercontent.com/JackVinati/JackVinati/main/metrics.plugin.topics.svg?v=1" alt="skills radar" width="60%"/>
 
 </div>
 
