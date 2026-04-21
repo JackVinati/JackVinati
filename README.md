@@ -41,8 +41,6 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 - 🎛️ **[WaveWizard](https://github.com/JackVinati/WaveWizard)** — a Gradio app that sniffs out the true sample rate & bit depth of audio files
 - ⛓️ **[Train Tickets DApp](https://github.com/Crocus98/Blockchain-Project-Train-Tickets)** — a Solidity + Python DApp I built with a friend for the DLT course @ Polimi: smart contracts handle the full ticket lifecycle and auto-refund passengers when trains run late
 - 🤗 Also lurking over on **[Hugging Face](https://huggingface.co/jackvinati)**
-- 📍 Based in **Brescia, Italy** 🇮🇹
-- ☕ Commit-to-coffee ratio: dangerously close to 1:1
 
 ---
 
