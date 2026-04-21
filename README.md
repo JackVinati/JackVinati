@@ -125,16 +125,6 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 
 ---
 
-## 📊 Metrics Dashboard
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/JackVinati/JackVinati/main/metrics.plugin.isocalendar.svg?v=1" alt="isometric contribution calendar" width="98%"/>
-
-</div>
-
----
-
 ## 💻 Terminal Session
 
 <div align="center">
