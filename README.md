@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=56&duration=2500&pause=9999999&color=8B5CF6&center=true&vCenter=true&width=700&height=90&lines=JackVinati" alt="JackVinati"/>
 
-### MSc in Computer & Data Science @ PoliMi 
+### MSc in Computer Engineering & Data Science @ PoliMi 
 
 <br/>
 
