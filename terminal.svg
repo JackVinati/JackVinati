@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" width="720" height="240" role="img" aria-label="Terminal session: jack --whoami">
+  <style>
+    .win   { fill: #0D1117; stroke: #30363D; stroke-width: 1; }
+    .bar   { fill: #161B22; }
+    .dotR  { fill: #FF5F57; }
+    .dotY  { fill: #FEBC2E; }
+    .dotG  { fill: #28C840; }
+    .title { fill: #7D8590; font: 600 11px 'JetBrains Mono','Fira Code',monospace; }
+    .prompt{ fill: #8B5CF6; font: 600 14px 'JetBrains Mono','Fira Code',monospace; }
+    .cmd   { fill: #C9D1D9; font: 400 14px 'JetBrains Mono','Fira Code',monospace; }
+    .key   { fill: #06B6D4; font: 600 13px 'JetBrains Mono','Fira Code',monospace; }
+    .val   { fill: #A5D6FF; font: 400 13px 'JetBrains Mono','Fira Code',monospace; }
+    .dim   { fill: #7D8590; font: 400 13px 'JetBrains Mono','Fira Code',monospace; }
+    .ok    { fill: #28C840; font: 600 13px 'JetBrains Mono','Fira Code',monospace; }
+
+    @keyframes reveal {
+      from { clip-path: inset(0 100% 0 0); opacity: 1; }
+      to   { clip-path: inset(0 0    0 0); opacity: 1; }
+    }
+    @keyframes appear {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+    @keyframes blink {
+      0%, 49%   { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    .l1 { animation: reveal 1.1s steps(28) 0.4s forwards; clip-path: inset(0 100% 0 0); }
+    .l2 { animation: appear 0.3s linear 1.7s forwards; opacity: 0; }
+    .l3 { animation: appear 0.3s linear 2.0s forwards; opacity: 0; }
+    .l4 { animation: appear 0.3s linear 2.3s forwards; opacity: 0; }
+    .cur { animation: blink 1s steps(2) 2.7s infinite; opacity: 0; }
+  </style>
+
+  <!-- Window -->
+  <rect class="win" x="1" y="1" width="718" height="238" rx="10" ry="10"/>
+  <rect class="bar" x="1" y="1" width="718" height="28" rx="10" ry="10"/>
+  <rect class="bar" x="1" y="18" width="718" height="11"/>
+  <circle class="dotR" cx="18" cy="15" r="5.5"/>
+  <circle class="dotY" cx="36" cy="15" r="5.5"/>
+  <circle class="dotG" cx="54" cy="15" r="5.5"/>
+  <text class="title" x="360" y="19" text-anchor="middle">jack ─ zsh</text>
+
+  <!-- Prompt line 1 -->
+  <g class="l1">
+    <text class="prompt" x="20" y="70">➜</text>
+    <text class="dim"    x="42" y="70">~</text>
+    <text class="cmd"    x="62" y="70">./jack --whoami</text>
+  </g>
+
+  <!-- Output -->
+  <g class="l2"><text x="20" y="104" class="key">name</text>  <text x="130" y="104" class="dim">=</text><text x="145" y="104" class="val">"Jack Vinati"</text></g>
+  <g class="l3"><text x="20" y="130" class="key">role</text>  <text x="130" y="130" class="dim">=</text><text x="145" y="130" class="val">"MSc Computer Engineering &amp; Data Science"</text></g>
+  <g class="l4"><text x="20" y="156" class="key">status</text><text x="130" y="156" class="dim">=</text><text x="145" y="156" class="ok">"shipping ✓"</text></g>
+
+  <!-- Final prompt + blinking cursor -->
+  <g>
+    <text class="prompt" x="20" y="194">➜</text>
+    <text class="dim"    x="42" y="194">~</text>
+    <rect class="cur" x="62" y="182" width="9" height="16" fill="#8B5CF6"/>
+  </g>
+</svg>
