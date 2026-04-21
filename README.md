@@ -165,23 +165,4 @@ Hey — I'm **JackVinati**. MSc student in **Computer Engineering & Data Science
 <a href="https://huggingface.co/jackvinati"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&labelColor=0D1117"/></a>
 <a href="https://github.com/JackVinati/WaveWizard"><img src="https://img.shields.io/badge/WaveWizard-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/></a>
 
-</div><div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=56&duration=2500&pause=9999999&color=8B5CF6&center=true&vCenter=true&width=700&height=90&lines=JackVinati" alt="JackVinati"/>
-
-### MSc in Computer & Data Science @ PoliMi 
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&lines=Building%20with%20data%2C%20one%20model%20at%20a%20time;Curious%20about%20everything%2C%20focused%20on%20what%20matters;Open%20to%20collaboration%20and%20new%20ideas" alt="typing animation"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=JackVinati&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/JackVinati?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=0D1117" alt="followers"/>
-<img src="https://img.shields.io/badge/Focus-Private%20Repos-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="focus"/>
-
-</div>
 
